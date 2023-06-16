@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arinze Emmanuel</h1>
 <h3 align="center">I'm a web developer.</h3>
 
-- 🌱 I’m currently learning **Typescript and MERN stack development**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 📫 How to reach me **aekimena@gmail.com**
 
